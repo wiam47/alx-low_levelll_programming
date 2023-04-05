@@ -2,8 +2,8 @@
 
 /**
  * main - Entry point
- * Description: Prints a message to the standard output.
- * Return: Always 0 (Success)
+ *Description: Prints a message to the standard output.
+ *Return: Always 0 (Success)
  */
 int main(void)
 {
